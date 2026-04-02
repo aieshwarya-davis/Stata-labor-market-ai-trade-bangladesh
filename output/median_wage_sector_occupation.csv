@@ -1,0 +1,183 @@
+sector_group,occupation_group,median_wage
+Agriculture,Managers,3000
+Agriculture,Engineering profs,3562.5
+Agriculture,Teaching profs,1500
+Agriculture,Other profs,3000
+Agriculture,Clerical,6875
+Agriculture,Personal services,2000
+Agriculture,Sales,2500
+Agriculture,Craft/machine ops,1500
+Agriculture,Agri workers,2000
+Agriculture,Drivers,4000
+Non-manufacturing industry,Legislators,17500
+Non-manufacturing industry,Managers,7500
+Non-manufacturing industry,Engineering profs,4375
+Non-manufacturing industry,Other profs,4500
+Non-manufacturing industry,Clerical,4000
+Non-manufacturing industry,Personal services,2500
+Non-manufacturing industry,Sales,6250
+Non-manufacturing industry,Craft/machine ops,2500
+Non-manufacturing industry,Agri workers,1650
+Non-manufacturing industry,Drivers,3000
+Food and beverages,Legislators,20625
+Food and beverages,Managers,6625
+Food and beverages,Engineering profs,5250
+Food and beverages,Health profs,4625
+Food and beverages,Other profs,3000
+Food and beverages,Clerical,3000
+Food and beverages,Personal services,2000
+Food and beverages,Sales,3000
+Food and beverages,Craft/machine ops,2125
+Food and beverages,Agri workers,1020
+Food and beverages,Drivers,3500
+Textiles,Legislators,8750
+Textiles,Managers,7750
+Textiles,Engineering profs,5000
+Textiles,Health profs,6875
+Textiles,Other profs,4500
+Textiles,Clerical,4500
+Textiles,Personal services,2275
+Textiles,Sales,2750
+Textiles,Craft/machine ops,3000
+Textiles,Agri workers,750
+Textiles,Drivers,4000
+Wood products,Legislators,5000
+Wood products,Managers,7250
+Wood products,Engineering profs,3500
+Wood products,Other profs,3625
+Wood products,Clerical,3000
+Wood products,Personal services,3000
+Wood products,Sales,4125
+Wood products,Craft/machine ops,2650
+Wood products,Agri workers,2025
+Fuel/chemicals/metals,Legislators,5250
+Fuel/chemicals/metals,Managers,6250
+Fuel/chemicals/metals,Engineering profs,6250
+Fuel/chemicals/metals,Health profs,6875
+Fuel/chemicals/metals,Other profs,5500
+Fuel/chemicals/metals,Clerical,3875
+Fuel/chemicals/metals,Personal services,3000
+Fuel/chemicals/metals,Sales,3000
+Fuel/chemicals/metals,Craft/machine ops,2750
+Fuel/chemicals/metals,Agri workers,2250
+Fuel/chemicals/metals,Drivers,3875
+Electronics/machinery/transport,Managers,7500
+Electronics/machinery/transport,Engineering profs,4750
+Electronics/machinery/transport,Other profs,5000
+Electronics/machinery/transport,Clerical,4625
+Electronics/machinery/transport,Personal services,2500
+Electronics/machinery/transport,Craft/machine ops,2500
+Electronics/machinery/transport,Drivers,2500
+Other manufacturing,Managers,3875
+Other manufacturing,Engineering profs,3750
+Other manufacturing,Other profs,3625
+Other manufacturing,Personal services,2500
+Other manufacturing,Sales,3375
+Other manufacturing,Craft/machine ops,2500
+Other manufacturing,Drivers,3750
+Trade services,Legislators,6250
+Trade services,Managers,4500
+Trade services,Engineering profs,3250
+Trade services,Health profs,7500
+Trade services,Other profs,3000
+Trade services,Clerical,3750
+Trade services,Personal services,2250
+Trade services,Sales,2250
+Trade services,Craft/machine ops,2500
+Trade services,Agri workers,1550
+Trade services,Other/armed forces,7500
+Trade services,Drivers,2750
+Accommodation & food,Legislators,3000
+Accommodation & food,Managers,4000
+Accommodation & food,Engineering profs,2000
+Accommodation & food,Other profs,2000
+Accommodation & food,Personal services,2500
+Accommodation & food,Sales,2150
+Accommodation & food,Craft/machine ops,2875
+Accommodation & food,Drivers,2000
+Transport & storage,Managers,8500
+Transport & storage,Engineering profs,5875
+Transport & storage,Other profs,5500
+Transport & storage,Clerical,4250
+Transport & storage,Personal services,2500
+Transport & storage,Sales,2625
+Transport & storage,Craft/machine ops,2500
+Transport & storage,Agri workers,2250
+Transport & storage,Drivers,3000
+Information & comm,Legislators,16250
+Information & comm,Managers,4875
+Information & comm,Engineering profs,6250
+Information & comm,Other profs,4000
+Information & comm,Clerical,2500
+Information & comm,Personal services,2500
+Information & comm,Sales,2000
+Information & comm,Craft/machine ops,2250
+Finance & real estate,Legislators,20000
+Finance & real estate,Managers,9375
+Finance & real estate,Engineering profs,7250
+Finance & real estate,Teaching profs,5500
+Finance & real estate,Other profs,6500
+Finance & real estate,Clerical,6250
+Finance & real estate,Personal services,2500
+Finance & real estate,Sales,4500
+Finance & real estate,Craft/machine ops,3000
+Finance & real estate,Drivers,3875
+Tech/admin services,Legislators,3000
+Tech/admin services,Managers,5625
+Tech/admin services,Engineering profs,5000
+Tech/admin services,Health profs,6562.5
+Tech/admin services,Teaching profs,5000
+Tech/admin services,Other profs,5000
+Tech/admin services,Clerical,5000
+Tech/admin services,Personal services,2375
+Tech/admin services,Sales,2500
+Tech/admin services,Craft/machine ops,2250
+Tech/admin services,Agri workers,2250
+Tech/admin services,Drivers,3075
+Public admin,Legislators,14375
+Public admin,Managers,3750
+Public admin,Engineering profs,7048.75
+Public admin,Health profs,6250
+Public admin,Other profs,6250
+Public admin,Clerical,4277.5
+Public admin,Personal services,5500
+Public admin,Sales,1875
+Public admin,Craft/machine ops,6437.5
+Public admin,Agri workers,4562.5
+Public admin,Other/armed forces,6125
+Public admin,Drivers,4500
+Education,Legislators,6500
+Education,Managers,7625
+Education,Engineering profs,7000
+Education,Health profs,10625
+Education,Teaching profs,5000
+Education,Other profs,4000
+Education,Clerical,3875
+Education,Personal services,2500
+Education,Sales,4500
+Education,Craft/machine ops,3000
+Education,Other/armed forces,10000
+Education,Drivers,3750
+Health & social work,Legislators,7500
+Health & social work,Managers,3750
+Health & social work,Engineering profs,7625
+Health & social work,Health profs,5000
+Health & social work,Teaching profs,7500
+Health & social work,Other profs,4212.5
+Health & social work,Clerical,4500
+Health & social work,Personal services,2500
+Health & social work,Sales,4625
+Health & social work,Craft/machine ops,3000
+Health & social work,Other/armed forces,3750
+Health & social work,Drivers,3750
+Other services,Managers,6250
+Other services,Engineering profs,4500
+Other services,Health profs,3250
+Other services,Teaching profs,1500
+Other services,Other profs,2112.5
+Other services,Clerical,5000
+Other services,Personal services,1312.5
+Other services,Sales,2500
+Other services,Craft/machine ops,2287.5
+Other services,Agri workers,1775
+Other services,Drivers,4250

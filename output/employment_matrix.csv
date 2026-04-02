@@ -1,0 +1,192 @@
+sector_group,occupation_group,workers
+Agriculture,Managers,4
+Agriculture,Engineering profs,5
+Agriculture,Health profs,1
+Agriculture,Teaching profs,3
+Agriculture,Other profs,33
+Agriculture,Clerical,2
+Agriculture,Personal services,42
+Agriculture,Sales,61
+Agriculture,Craft/machine ops,138
+Agriculture,Agri workers,14646
+Agriculture,Other/armed forces,1
+Agriculture,Drivers,17
+Non-manufacturing industry,Legislators,1
+Non-manufacturing industry,Managers,8
+Non-manufacturing industry,Engineering profs,42
+Non-manufacturing industry,Other profs,125
+Non-manufacturing industry,Clerical,9
+Non-manufacturing industry,Personal services,32
+Non-manufacturing industry,Sales,15
+Non-manufacturing industry,Craft/machine ops,2191
+Non-manufacturing industry,Agri workers,17
+Non-manufacturing industry,Drivers,27
+Food and beverages,Legislators,3
+Food and beverages,Managers,24
+Food and beverages,Engineering profs,11
+Food and beverages,Health profs,2
+Food and beverages,Other profs,70
+Food and beverages,Clerical,5
+Food and beverages,Personal services,13
+Food and beverages,Sales,23
+Food and beverages,Craft/machine ops,195
+Food and beverages,Agri workers,69
+Food and beverages,Drivers,9
+Textiles,Legislators,6
+Textiles,Managers,42
+Textiles,Engineering profs,145
+Textiles,Health profs,2
+Textiles,Other profs,66
+Textiles,Clerical,27
+Textiles,Personal services,45
+Textiles,Sales,40
+Textiles,Craft/machine ops,2029
+Textiles,Agri workers,4
+Textiles,Drivers,8
+Wood products,Legislators,1
+Wood products,Managers,7
+Wood products,Engineering profs,2
+Wood products,Other profs,12
+Wood products,Clerical,1
+Wood products,Personal services,4
+Wood products,Sales,5
+Wood products,Craft/machine ops,205
+Wood products,Agri workers,15
+Fuel/chemicals/metals,Legislators,3
+Fuel/chemicals/metals,Managers,51
+Fuel/chemicals/metals,Engineering profs,16
+Fuel/chemicals/metals,Health profs,7
+Fuel/chemicals/metals,Other profs,109
+Fuel/chemicals/metals,Clerical,14
+Fuel/chemicals/metals,Personal services,34
+Fuel/chemicals/metals,Sales,46
+Fuel/chemicals/metals,Craft/machine ops,463
+Fuel/chemicals/metals,Agri workers,6
+Fuel/chemicals/metals,Drivers,13
+Electronics/machinery/transport,Managers,8
+Electronics/machinery/transport,Engineering profs,9
+Electronics/machinery/transport,Other profs,10
+Electronics/machinery/transport,Clerical,3
+Electronics/machinery/transport,Personal services,1
+Electronics/machinery/transport,Sales,2
+Electronics/machinery/transport,Craft/machine ops,73
+Electronics/machinery/transport,Drivers,1
+Other manufacturing,Managers,5
+Other manufacturing,Engineering profs,3
+Other manufacturing,Other profs,12
+Other manufacturing,Personal services,4
+Other manufacturing,Sales,33
+Other manufacturing,Craft/machine ops,500
+Other manufacturing,Agri workers,1
+Other manufacturing,Drivers,3
+Trade services,Legislators,2
+Trade services,Managers,121
+Trade services,Engineering profs,13
+Trade services,Health profs,15
+Trade services,Teaching profs,1
+Trade services,Other profs,794
+Trade services,Clerical,25
+Trade services,Personal services,63
+Trade services,Sales,3873
+Trade services,Craft/machine ops,608
+Trade services,Agri workers,120
+Trade services,Other/armed forces,1
+Trade services,Drivers,25
+Accommodation & food,Legislators,1
+Accommodation & food,Managers,30
+Accommodation & food,Engineering profs,1
+Accommodation & food,Health profs,1
+Accommodation & food,Teaching profs,1
+Accommodation & food,Other profs,75
+Accommodation & food,Personal services,282
+Accommodation & food,Sales,567
+Accommodation & food,Craft/machine ops,4
+Accommodation & food,Drivers,2
+Transport & storage,Managers,8
+Transport & storage,Engineering profs,8
+Transport & storage,Health profs,1
+Transport & storage,Teaching profs,3
+Transport & storage,Other profs,35
+Transport & storage,Clerical,35
+Transport & storage,Personal services,181
+Transport & storage,Sales,18
+Transport & storage,Craft/machine ops,570
+Transport & storage,Agri workers,16
+Transport & storage,Drivers,2576
+Information & comm,Legislators,1
+Information & comm,Managers,6
+Information & comm,Engineering profs,28
+Information & comm,Other profs,27
+Information & comm,Clerical,7
+Information & comm,Personal services,3
+Information & comm,Sales,27
+Information & comm,Craft/machine ops,27
+Finance & real estate,Legislators,5
+Finance & real estate,Managers,83
+Finance & real estate,Engineering profs,9
+Finance & real estate,Teaching profs,1
+Finance & real estate,Other profs,145
+Finance & real estate,Clerical,99
+Finance & real estate,Personal services,41
+Finance & real estate,Sales,13
+Finance & real estate,Craft/machine ops,3
+Finance & real estate,Drivers,2
+Tech/admin services,Legislators,20
+Tech/admin services,Managers,9
+Tech/admin services,Engineering profs,31
+Tech/admin services,Health profs,26
+Tech/admin services,Teaching profs,3
+Tech/admin services,Other profs,193
+Tech/admin services,Clerical,110
+Tech/admin services,Personal services,136
+Tech/admin services,Sales,73
+Tech/admin services,Craft/machine ops,39
+Tech/admin services,Agri workers,4
+Tech/admin services,Drivers,4
+Public admin,Legislators,12
+Public admin,Managers,6
+Public admin,Engineering profs,16
+Public admin,Health profs,17
+Public admin,Other profs,94
+Public admin,Clerical,70
+Public admin,Personal services,248
+Public admin,Sales,1
+Public admin,Craft/machine ops,7
+Public admin,Agri workers,4
+Public admin,Other/armed forces,99
+Public admin,Drivers,9
+Education,Legislators,2
+Education,Managers,58
+Education,Engineering profs,3
+Education,Health profs,2
+Education,Teaching profs,975
+Education,Other profs,32
+Education,Clerical,62
+Education,Personal services,81
+Education,Sales,1
+Education,Craft/machine ops,9
+Education,Other/armed forces,1
+Education,Drivers,4
+Health & social work,Legislators,2
+Health & social work,Managers,3
+Health & social work,Engineering profs,2
+Health & social work,Health profs,261
+Health & social work,Teaching profs,4
+Health & social work,Other profs,17
+Health & social work,Clerical,20
+Health & social work,Personal services,67
+Health & social work,Sales,3
+Health & social work,Craft/machine ops,4
+Health & social work,Other/armed forces,1
+Health & social work,Drivers,15
+Other services,Managers,22
+Other services,Engineering profs,9
+Other services,Health profs,3
+Other services,Teaching profs,185
+Other services,Other profs,137
+Other services,Clerical,45
+Other services,Personal services,792
+Other services,Sales,21
+Other services,Craft/machine ops,925
+Other services,Agri workers,18
+Other services,Drivers,18

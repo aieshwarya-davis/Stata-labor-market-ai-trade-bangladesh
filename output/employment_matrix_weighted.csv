@@ -1,0 +1,192 @@
+sector_group,occupation_group,weighted_workers
+Agriculture,Managers,1026.039161682129
+Agriculture,Engineering profs,2089.104309082031
+Agriculture,Health profs,546.202880859375
+Agriculture,Teaching profs,849.9619560241699
+Agriculture,Other profs,11165.75033950806
+Agriculture,Clerical,408.8565559387207
+Agriculture,Personal services,13349.28310775757
+Agriculture,Sales,25642.53485488892
+Agriculture,Craft/machine ops,52941.46460342407
+Agriculture,Agri workers,5739373.033672333
+Agriculture,Other/armed forces,455.0137939453125
+Agriculture,Drivers,5717.766227722168
+Non-manufacturing industry,Legislators,798.0682373046875
+Non-manufacturing industry,Managers,1962.821338653564
+Non-manufacturing industry,Engineering profs,11731.93077087402
+Non-manufacturing industry,Other profs,34936.41812133789
+Non-manufacturing industry,Clerical,3177.707138061523
+Non-manufacturing industry,Personal services,10988.70532989502
+Non-manufacturing industry,Sales,3868.710536956787
+Non-manufacturing industry,Craft/machine ops,719174.0509147644
+Non-manufacturing industry,Agri workers,4197.540222167969
+Non-manufacturing industry,Drivers,11707.88268280029
+Food and beverages,Legislators,1617.752304077148
+Food and beverages,Managers,7525.196353912354
+Food and beverages,Engineering profs,3651.015830993652
+Food and beverages,Health profs,876.8594665527344
+Food and beverages,Other profs,27793.08429336548
+Food and beverages,Clerical,1372.206340789795
+Food and beverages,Personal services,3227.964153289795
+Food and beverages,Sales,8558.227882385254
+Food and beverages,Craft/machine ops,59286.46141815186
+Food and beverages,Agri workers,29418.64836120605
+Food and beverages,Drivers,2996.473430633545
+Textiles,Legislators,2748.450119018555
+Textiles,Managers,16370.82926177979
+Textiles,Engineering profs,45873.27579116821
+Textiles,Health profs,1395.37255859375
+Textiles,Other profs,26218.89774703979
+Textiles,Clerical,9496.283401489258
+Textiles,Personal services,15092.55415725708
+Textiles,Sales,15742.30812835693
+Textiles,Craft/machine ops,736157.8167572021
+Textiles,Agri workers,1661.902633666992
+Textiles,Drivers,2876.454528808594
+Wood products,Legislators,603.1616821289063
+Wood products,Managers,3277.234344482422
+Wood products,Engineering profs,419.8360595703125
+Wood products,Other profs,3987.745136260986
+Wood products,Clerical,517.9103393554688
+Wood products,Personal services,867.3383674621582
+Wood products,Sales,1977.062789916992
+Wood products,Craft/machine ops,65313.45143890381
+Wood products,Agri workers,3720.70308303833
+Fuel/chemicals/metals,Legislators,1289.386852264404
+Fuel/chemicals/metals,Managers,17642.15873336792
+Fuel/chemicals/metals,Engineering profs,5436.571685791016
+Fuel/chemicals/metals,Health profs,3870.806289672852
+Fuel/chemicals/metals,Other profs,28988.14679336548
+Fuel/chemicals/metals,Clerical,5500.792980194092
+Fuel/chemicals/metals,Personal services,14252.69087219238
+Fuel/chemicals/metals,Sales,13518.35209655762
+Fuel/chemicals/metals,Craft/machine ops,153869.4791755676
+Fuel/chemicals/metals,Agri workers,2506.767715454102
+Fuel/chemicals/metals,Drivers,6435.825469970703
+Electronics/machinery/transport,Managers,2125.476314544678
+Electronics/machinery/transport,Engineering profs,2361.312911987305
+Electronics/machinery/transport,Other profs,4621.380485534668
+Electronics/machinery/transport,Clerical,763.8941421508789
+Electronics/machinery/transport,Personal services,820.4799194335938
+Electronics/machinery/transport,Sales,955.7397155761719
+Electronics/machinery/transport,Craft/machine ops,22719.09049224854
+Electronics/machinery/transport,Drivers,456.428466796875
+Other manufacturing,Managers,2082.048606872559
+Other manufacturing,Engineering profs,451.7974090576172
+Other manufacturing,Other profs,3781.549427032471
+Other manufacturing,Personal services,1667.2158203125
+Other manufacturing,Sales,12189.02972412109
+Other manufacturing,Craft/machine ops,156084.6899681091
+Other manufacturing,Agri workers,357.810546875
+Other manufacturing,Drivers,493.1352348327637
+Trade services,Legislators,345.6046905517578
+Trade services,Managers,36645.36242294312
+Trade services,Engineering profs,3024.582195281982
+Trade services,Health profs,6254.52766418457
+Trade services,Teaching profs,947.127197265625
+Trade services,Other profs,212999.2623405457
+Trade services,Clerical,9422.513343811035
+Trade services,Personal services,18663.50883102417
+Trade services,Sales,1278862.348449707
+Trade services,Craft/machine ops,192496.10414505
+Trade services,Agri workers,49544.27801895142
+Trade services,Other/armed forces,75.10858917236328
+Trade services,Drivers,8210.709629058838
+Accommodation & food,Legislators,65.53861999511719
+Accommodation & food,Managers,8693.282890319824
+Accommodation & food,Engineering profs,232.7808837890625
+Accommodation & food,Health profs,51.38564300537109
+Accommodation & food,Teaching profs,52.26132583618164
+Accommodation & food,Other profs,18900.68299484253
+Accommodation & food,Personal services,91106.35289382935
+Accommodation & food,Sales,184383.3243560791
+Accommodation & food,Craft/machine ops,1688.487014770508
+Accommodation & food,Drivers,1802.316833496094
+Transport & storage,Managers,1148.889019012451
+Transport & storage,Engineering profs,3716.325119018555
+Transport & storage,Health profs,349.8131103515625
+Transport & storage,Teaching profs,1004.739334106445
+Transport & storage,Other profs,12345.18549728394
+Transport & storage,Clerical,10295.39000320435
+Transport & storage,Personal services,59023.66630935669
+Transport & storage,Sales,6523.96085357666
+Transport & storage,Craft/machine ops,194809.402721405
+Transport & storage,Agri workers,5895.520835876465
+Transport & storage,Drivers,883978.6696548462
+Information & comm,Legislators,846.6740112304688
+Information & comm,Managers,3012.190399169922
+Information & comm,Engineering profs,9978.065517425537
+Information & comm,Other profs,9029.68240737915
+Information & comm,Clerical,1676.056602478027
+Information & comm,Personal services,1443.926750183105
+Information & comm,Sales,10914.77370452881
+Information & comm,Craft/machine ops,7627.293865203857
+Finance & real estate,Legislators,1712.82536315918
+Finance & real estate,Managers,32305.56899642944
+Finance & real estate,Engineering profs,2504.229221343994
+Finance & real estate,Teaching profs,39.03740692138672
+Finance & real estate,Other profs,45711.15670394897
+Finance & real estate,Clerical,29865.06901931763
+Finance & real estate,Personal services,17123.77822875977
+Finance & real estate,Sales,5528.452098846436
+Finance & real estate,Craft/machine ops,908.079231262207
+Finance & real estate,Drivers,1264.345794677734
+Tech/admin services,Legislators,6421.875034332275
+Tech/admin services,Managers,2245.657699584961
+Tech/admin services,Engineering profs,8773.733764648438
+Tech/admin services,Health profs,9232.198642730713
+Tech/admin services,Teaching profs,429.0967826843262
+Tech/admin services,Other profs,58181.3574256897
+Tech/admin services,Clerical,34558.2364616394
+Tech/admin services,Personal services,39620.74164962769
+Tech/admin services,Sales,27044.43088912964
+Tech/admin services,Craft/machine ops,12255.6799621582
+Tech/admin services,Agri workers,1710.916637420654
+Tech/admin services,Drivers,1100.715515136719
+Public admin,Legislators,7118.720111846924
+Public admin,Managers,1240.752914428711
+Public admin,Engineering profs,4706.814979553223
+Public admin,Health profs,2746.101623535156
+Public admin,Other profs,25187.10061645508
+Public admin,Clerical,16970.17266082764
+Public admin,Personal services,72570.02545928955
+Public admin,Sales,361.6279296875
+Public admin,Craft/machine ops,2946.170967102051
+Public admin,Agri workers,2014.353485107422
+Public admin,Other/armed forces,28785.1530380249
+Public admin,Drivers,2093.911178588867
+Education,Legislators,251.3851547241211
+Education,Managers,15578.91027832031
+Education,Engineering profs,1621.564498901367
+Education,Health profs,221.6039657592773
+Education,Teaching profs,281877.1630783081
+Education,Other profs,11462.48823165894
+Education,Clerical,17790.77606582642
+Education,Personal services,24529.41907119751
+Education,Sales,52.88098907470703
+Education,Craft/machine ops,3341.555801391602
+Education,Other/armed forces,846.6740112304688
+Education,Drivers,1066.590961456299
+Health & social work,Legislators,343.1016235351563
+Health & social work,Managers,1197.360385894775
+Health & social work,Engineering profs,1116.944946289063
+Health & social work,Health profs,77936.30695343018
+Health & social work,Teaching profs,1036.026557922363
+Health & social work,Other profs,5558.547088623047
+Health & social work,Clerical,5199.301204681396
+Health & social work,Personal services,17568.93158721924
+Health & social work,Sales,1518.080291748047
+Health & social work,Craft/machine ops,726.3693923950195
+Health & social work,Other/armed forces,42.08551025390625
+Health & social work,Drivers,3202.907196044922
+Other services,Managers,6654.502758026123
+Other services,Engineering profs,3013.90856552124
+Other services,Health profs,851.6566848754883
+Other services,Teaching profs,61041.66636657715
+Other services,Other profs,43828.30920791626
+Other services,Clerical,16400.47496795654
+Other services,Personal services,268595.5348625183
+Other services,Sales,8536.167835235596
+Other services,Craft/machine ops,312291.4611625671
+Other services,Agri workers,5165.441818237305
+Other services,Drivers,8803.724582672119

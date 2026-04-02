@@ -1,0 +1,19 @@
+sector_group,median_wage
+Agriculture,2000
+Non-manufacturing industry,2500
+Food and beverages,2375
+Textiles,3000
+Wood products,3000
+Fuel/chemicals/metals,3000
+Electronics/machinery/transport,3000
+Other manufacturing,2750
+Trade services,2500
+Accommodation & food,2500
+Transport & storage,3000
+Information & comm,3000
+Finance & real estate,6250
+Tech/admin services,3750
+Public admin,5500
+Education,4950
+Health & social work,4125
+Other services,1750
